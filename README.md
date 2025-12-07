@@ -21,7 +21,7 @@ What is Each Part Responsible for?
 - 6V MAX 5 RPM DC Motors >> Spin auger feeding mechanism.
 - 20KG Servo Motor >> Turn machine left to right.
 - Hall Effect Sensors >> Used to determine spin and RPM of motors.
-- Lazer Reciever Sensors >> Used to calculate exit velocity of the ball and make the next shot more accurate.
+- Laser Reciever Sensors >> Used to calculate exit velocity of the ball and make the next shot more accurate.
 - L293D Motor Driver >> Allows for variable speed control of the motors.
 
 Limitations:
