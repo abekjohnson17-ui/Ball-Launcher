@@ -12,6 +12,7 @@ BOM:
 
 <img width="513" height="300" alt="image" src="https://github.com/user-attachments/assets/121b3f97-58f2-4374-830b-8de3f1d0a76d" />
 Link to BOM: 
+
 https://docs.google.com/spreadsheets/d/1TKzZSILnyTzFo4eQHcQ44TPMbz68pp8OG-lISy_ujTU/edit?gid=0#gid=0
 
 What is Each Part Responsible for?
