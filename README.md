@@ -1,4 +1,5 @@
 What does it do?
+
 This project is a ball launcher that has a closed-loop feedback system. There are three main things that the project does:
 1. Calculate the velocity after each shot to dial in the accuracy on the next shot.
 2. Often times ping pong can have a wide variety of spin on the ball, this machine can change the spin of the ball at launch.
@@ -16,6 +17,8 @@ Link to BOM:
 
 https://docs.google.com/spreadsheets/d/1TKzZSILnyTzFo4eQHcQ44TPMbz68pp8OG-lISy_ujTU/edit?gid=0#gid=0
 
+
+STL Files are located under the src folder -> STL Files
 Wiring:
 
 <img width="764" height="499" alt="image" src="https://github.com/user-attachments/assets/0ad6333a-b479-4e06-9f63-7a8a01f4fd2d" />
