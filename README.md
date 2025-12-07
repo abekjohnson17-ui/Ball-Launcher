@@ -1,3 +1,5 @@
+Ping Pong Ball Launcher
+
 What does it do?
 
 This project is a ball launcher that has a closed-loop feedback system. There are three main things that the project does:
@@ -38,3 +40,6 @@ There are three main limitations:
 1. The motors do not spin fast enough to launch the ball at a decent distance, I should have used motors that spin at much higher RPM. To get around this with what I had I used a gear ratio to increase speed.
 2. The auger feeding mechanism will drop 2-3 balls at a time. To fix this I can add dividers along the length of the auger to drop one ball at a time.
 3. The servo that turns the machine from left to right will jam sometimes. I should have made the attachment system more aligned with the axis.
+
+Pictures:
+
