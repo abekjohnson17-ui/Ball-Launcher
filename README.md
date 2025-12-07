@@ -19,6 +19,7 @@ https://docs.google.com/spreadsheets/d/1TKzZSILnyTzFo4eQHcQ44TPMbz68pp8OG-lISy_u
 
 
 STL Files are located under the src folder -> STL Files
+
 Wiring:
 
 <img width="764" height="499" alt="image" src="https://github.com/user-attachments/assets/0ad6333a-b479-4e06-9f63-7a8a01f4fd2d" />
