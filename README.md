@@ -16,6 +16,11 @@ Link to BOM:
 
 https://docs.google.com/spreadsheets/d/1TKzZSILnyTzFo4eQHcQ44TPMbz68pp8OG-lISy_ujTU/edit?gid=0#gid=0
 
+Wiring:
+
+<img width="764" height="499" alt="image" src="https://github.com/user-attachments/assets/0ad6333a-b479-4e06-9f63-7a8a01f4fd2d" />
+
+
 What is Each Part Responsible for?
 - 12V MAX 300 RPM DC Motors >> Spin the wheels to launch the balls.
 - 6V MAX 5 RPM DC Motors >> Spin auger feeding mechanism.
