@@ -19,3 +19,17 @@ Parts:
 - Assorted M2, M3, and M4 Heat Set Inserts Link: https://www.amazon.com/Kadrick-Threaded-Assortment-Printing-Components/dp/B0CPVCTXJ7/ref=sr_1_2_sspa?crid=234UR6JHXYEAT&dib=eyJ2IjoiMSJ9.DQJ37CXmBvW7v_BbLiFA8zUTI7xU089Gk1hdb1-UtXWx4OPa62PdpFxFqOkPXwnxc-kzLgTebQB9G_QDNFi17-3V1HuEsZ15ET2vpQ8S8GYq0VtCLBv5b5LWu3Qc--21VW0BpCPuROgLeWDAPPD9xRxs02UvD8j7o3oiTFFsbCwC3bKTZ4uVSvBBeCxnlUvwQIFLAaDfsys3sh4b_q_zIf9a2pFkBMWZIE0COJZfxzs.0s34Yc0q8o_Dm260whIFXXMjUMaCdTdghNKesvmjDbM&dib_tag=se&keywords=assorted%2Bheat%2Bset%2Binserts&qid=1765056868&sprefix=assorted%2Bheat%2Bins%2Caps%2C145&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 - Assorted M2, M3, and M4 Bolts Link: https://www.amazon.com/Hapric-Metric-Assortment-Plated-Washers/dp/B0FK9THQ3D/ref=sr_1_13?crid=2Q0XA3S13F342&dib=eyJ2IjoiMSJ9.j0ipUOvIRt8aDayBQ3hXb-9425LdeSs_AFzWXZnEincldA-bP6DUjDEIdY_GQwXYHsuTpWLDl21Lk7cJY1qrk8d3SplNnPEocfWJKZO0Ci6Uqx3C_i2aKjbL_6S-bJROmmOmMGMBxcvhVckc1hq3M3nPhlhuP6HKdKKoeTRoHp3xsciDaMF5InoibiKJRiawNzjTS8VkUgDHPw_n9IapjeE6txWrVZVYZvq7lRfW8fc.mPKXB02Q6HFqasliRAOdRg6-AHNd96zlX1T1Zw3ulPI&dib_tag=se&keywords=assort%2Bm2%2Bto%2Bm5%2Bbolts&qid=1765057044&sprefix=assort%2Bm2%2Bto%2Bm5%2Bbolts%2Caps%2C117&sr=8-13&th=1
 - 3D Printed Custom Components (See in "STL Files" folder)
+
+What is Each Part Responsible for?
+- 12V MAX 300 RPM DC Motors >> Spin the wheels to launch the balls.
+- 6V MAX 5 RPM DC Motors >> Spin auger feeding mechanism.
+- 20KG Servo Motor >> Turn machine left to right.
+- Hall Effect Sensors >> Used to determine spin and RPM of motors.
+- Lazer Reciever Sensors >> Used to calculate exit velocity of the ball and make the next shot more accurate.
+- L293D Motor Driver >> Allows for variable speed control of the motors.
+
+Limitations:
+There are three main limitations:
+1. The motors do not spin fast enough to launch the ball at a decent distance, I should have used motors that spin at much higher RPM. To get around this with what I had I used a gear ratio to increase speed.
+2. The auger feeding mechanism will drop 2-3 balls at a time. To fix this I can add dividers along the length of the auger to drop one ball at a time.
+3. The servo that turns the machine from left to right will jam sometimes. I should have made the attachment system more aligned with the axis.
