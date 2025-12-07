@@ -10,7 +10,7 @@ I have used tennis ball launchers before and one thing that they can do is they 
 
 BOM:
 
-<img width="513" height="300" alt="image" src="https://github.com/user-attachments/assets/121b3f97-58f2-4374-830b-8de3f1d0a76d" />
+<img width="520" height="306" alt="image" src="https://github.com/user-attachments/assets/81c263d6-ea6e-49f2-8fed-538e559e370f" />
 
 Link to BOM: 
 
