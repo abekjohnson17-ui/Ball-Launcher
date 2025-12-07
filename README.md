@@ -9,7 +9,7 @@ I am an avid tennis player and a student at the University at Buffalo studying M
 I have used tennis ball launchers before and one thing that they can do is they can put variable spin on the ball to simulate a real game. This is a major feature I want to encorporate into my project. Essentially, the two robots are the same just scaled differently.
 
 Parts:
-- 12V MAX 300 RPM DC Motors [2 QTY] Link: https://www.amazon.com/dp/B072N84V8S?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- (12V MAX 300 RPM DC Motors)[https://www.amazon.com/dp/B072N84V8S?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1] [2 QTY] Link: https://www.amazon.com/dp/B072N84V8S?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 - 6V MAX 5 RPM DC Motors    [1 QTY] Link: https://www.amazon.com/dp/B0DP439JSX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 - 20KG Servo Motor          [1 QTY] Link: https://www.amazon.com/Miuzei-Torque-Digital-Waterproof-Control/dp/B07HNTKSZT/ref=sr_1_7?crid=CWLL0Z4T3YVP&dib=eyJ2IjoiMSJ9.cU8tLWXpdTzPYBltBAIFiy9cAixaNMLwpIij9XVgfnhEN1XV1s7OP64ENuOFrw9q0WzQyRamgMz8oVlQ63T46UIDUMUm8E-B8w1VZe102q36vgtpOOWl3oAPMdtXRmJcywIImvGlTUPvC0KJ_C5KaHid76_wqYPB9ct1-fyxDanhzNzHGMnFlSaQzyIgiV8jsUisj-z-Ve21F26Q0Ut_k_bKmj3uhqxbbWllPn-ont8j8ZYCORZSO7gJb_5HiIysSAAEf4SHi4QQS86qNWmpW7KVLd8cosWYgi4FyujYN8A.aMgmCREqT7Q8lBQ9tHOvImQbNwIlwzKTWiGdI9vjb4k&dib_tag=se&keywords=servo&qid=1765056216&sprefix=servo%2Caps%2C136&sr=8-7
 - Hall Effect Sensors       [2 QTY] Link: https://www.amazon.com/dp/B01NBE2XIR?ref=ppx_yo2ov_dt_b_fed_asin_title
