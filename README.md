@@ -52,4 +52,4 @@ Pictures:
 
 Link to YouTube Video of Velocity Calculation Demo:
 
-https://studio.youtube.com/video/sxxTJT0Kazk/edit
+[https://studio.youtube.com/video/sxxTJT0Kazk/edit](https://youtube.com/shorts/sxxTJT0Kazk)
